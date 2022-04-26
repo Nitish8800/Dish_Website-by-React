@@ -1,5 +1,5 @@
 import React from "react";
-// import Resturant from "./component/Basics/Resturant";
+import Resturant from "./components/Basics/Resturant";
 
 const App = () => {
   return (
